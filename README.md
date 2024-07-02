@@ -7,10 +7,10 @@
 
 运行环境:
 <br>
-python=3.9
+python=3.10
 <br>
-torch=1.11
+torch=1.13
 <br>
-stable_baselines3=1.8.0a1
+stable_baselines3=2.0.0
 <br>
-gym=0.26.2
+gym=0.28.2
